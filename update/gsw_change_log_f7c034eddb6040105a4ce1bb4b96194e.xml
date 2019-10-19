@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2019-10-17 02:54:00</change_date>
-        <changed_by display_value="Larry Lau">286c755fdb9000105a4ce1bb4b96199f</changed_by>
+        <changed_by/>
         <content display_value="Catalog Items">ffe274c4db1103004d27b31be0b8f58d</content>
         <related_change_log_entry/>
         <related_task_entry/>
